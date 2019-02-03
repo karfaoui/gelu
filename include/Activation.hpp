@@ -1,8 +1,8 @@
 /*
  * @Author: Kais Arfaoui 
  * @Date: 2019-02-03 15:16:36 
- * @Last Modified by:   karfaoui 
- * @Last Modified time: 2019-02-03 15:16:36 
+ * @Last Modified by: karfaoui
+ * @Last Modified time: 2019-02-03 15:29:46
  */
 
 #pragma once
@@ -20,7 +20,6 @@ public:
     // and starting at value 'start'
     static Tensor getSample(float start = -10.0, int size = 50);
 
-    // see  https://arxiv.org/pdf/1606.08415.pdf
     // GELU activation
     static Tensor gelu(const Tensor& x);
     
