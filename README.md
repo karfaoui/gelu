@@ -1,7 +1,7 @@
 # GELU
 Gaussian Error Linear Unit (GELU) activation. GELU nonlinearity implementation in C++.
 
-### GELU vs RELU vs LeakyRELU
+### GELU <i>vs</i> RELU <i>vs</i> LeakyRELU
 
 Sample activations on same data:<br>
 
