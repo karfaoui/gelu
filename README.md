@@ -5,7 +5,11 @@ Gaussian Error Linear Unit (GELU) activation. GELU nonlinearity tensor C++ imple
 
 Sample activations on same data:<br>
 
-![Relu](/images/relu.png "RELU")
+![Gelu](/images/gelu.png "GELU")<br>
+
+![Relu](/images/relu.png "RELU")<br>
+
+![LeakyRelu](/images/leaky_relu.png "LEAKY RELU")
 
 ### Citation
 
