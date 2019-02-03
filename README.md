@@ -1,8 +1,8 @@
 # GELU
 Gaussian Error Linear Unit (GELU) activation. GELU nonlinearity tensor C++ implementation.
 
-### RELU vs LeakyRELU vs GELU
-![Relu](/images/relu.png)
+### GELU vs RELU vs LeakyRELU
+![Relu](/images/relu.png "RELU")
 
 ### Citation
 
