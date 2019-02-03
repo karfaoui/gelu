@@ -5,7 +5,7 @@ Gaussian Error Linear Unit (GELU) activation. GELU nonlinearity tensor C++ imple
 
 ## Citation
 
-If you find this useful in your research, please consider citing:
+If you find this useful in your research, please consider citing original work from Dan Hendrycks and Kevin Gimpel:
 
     @article{hendrycks2016gelu,
       title={Gaussian Error Linear Units (GELUs)},
