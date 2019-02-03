@@ -1,3 +1,10 @@
+/*
+ * @Author: Kais Arfaoui 
+ * @Date: 2019-02-03 15:17:14 
+ * @Last Modified by:   karfaoui 
+ * @Last Modified time: 2019-02-03 15:17:14 
+ */
+
 #include<iostream>
 
 #include "../include/Activation.hpp"
