@@ -1,3 +1,0 @@
-/home/kais/Documents/~transfer/ML/Core/gelu_cpp/build/CMakeFiles/edit_cache.dir
-/home/kais/Documents/~transfer/ML/Core/gelu_cpp/build/CMakeFiles/rebuild_cache.dir
-/home/kais/Documents/~transfer/ML/Core/gelu_cpp/build/CMakeFiles/gelu_cpp.dir

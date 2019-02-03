@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/gelu_cpp.dir/src/main.cpp.o CMakeFiles/gelu_cpp.dir/src/Activation.cpp.o CMakeFiles/gelu_cpp.dir/src/FileUtils.cpp.o  -o ../bin/gelu_cpp -Wl,-rpath,/home/kais/libtorch/lib /home/kais/libtorch/lib/libtorch.so -Wl,--no-as-needed,/home/kais/libtorch/lib/libcaffe2.so -Wl,--as-needed /home/kais/libtorch/lib/libc10.so -lpthread 
